@@ -64,7 +64,6 @@ tl2.from(".lemon2",{
  tl2.to(".fanta",{
     top:"215%",
     left:"27%",
-    // width: "40%",
     rotate:"370deg"
 }, 'lemon')
 
@@ -72,7 +71,6 @@ tl2.to(".orangehalf",{
     top:"203%",
     left:"35%",
     rotate:"360deg",
-    // width:"22%"
 }, 'lemon')
 
 var tl3 = gsap.timeline({scrollTrigger:{
@@ -80,20 +78,17 @@ var tl3 = gsap.timeline({scrollTrigger:{
     start: "20% 95%",
     end: "70% 50%",
     scrub:true,
-    // markers: true
 }}) 
 
 tl3.to(".cocacola",{
     top:"150%",
     left:"260%",
-    // width: "80%"
 }, 'co')
 
 tl3.to(".lemon1",{
     top:"120%",
     left: "270%",
     rotate:"360deg",
-    // width:"22%"
 }, 'co')
 
 
@@ -108,14 +103,12 @@ var tl4 = gsap.timeline({scrollTrigger:{
 tl4.to(".pepsi",{
     top:"320%",
     right:"210%",
-    // width: "80%"
 }, 'pe')
 
 tl4.to(".lemon2",{
     top:"295%",
     right: "280%",
     rotate:"360deg",
-    // width:"22%"
 }, 'pe')
   
 

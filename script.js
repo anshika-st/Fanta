@@ -43,13 +43,11 @@ tl.to(".leaf2",{
 
 tl2.from(".lemon1",{
    left:"-50%",
-   top:"50%",
    rotate:"360deg"
 }, 'lemon')
 
 tl2.from(".lemon2",{
     right:"-50%",
-    top:"50%",
     rotate:"360deg"
  }, 'lemon')
 

@@ -146,7 +146,7 @@ nav a, i{
 .two{
     height: 100vh;
     width: 100%;
-    background-color: #9f4106e6;
+    /* background-color: #9f4106e6; */
     display: flex;
 }
 
@@ -167,19 +167,19 @@ nav a, i{
 
 .right h1{
     font-size: 5rem;
-    color: #fff;
+    color: #f56206;
 }
 
 .right p{
     font-size: 1.3rem;
-    color: #fff;
+    color: #ed9a56;
     width: 90%;
 }
 
 .three{
     height: 100vh;
     width: 100%;
-    background:linear-gradient(150deg, #ff8400, #1d6e05);
+    /* background:linear-gradient(150deg, #ff8400, #1d6e05); */
     display: flex;
     align-items: center;
     justify-content: center;

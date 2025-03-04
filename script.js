@@ -43,11 +43,13 @@ tl.to(".leaf2",{
 
 tl2.from(".lemon1",{
    left:"-50%",
+   top:"50%",
    rotate:"360deg"
 }, 'lemon')
 
 tl2.from(".lemon2",{
     right:"-50%",
+    top:"50%",
     rotate:"360deg"
  }, 'lemon')
 
@@ -86,7 +88,7 @@ tl3.to(".cocacola",{
 }, 'co')
 
 tl3.to(".lemon1",{
-    top:"120%",
+    top:"170%",
     left: "270%",
     rotate:"360deg",
 }, 'co')
@@ -106,7 +108,7 @@ tl4.to(".pepsi",{
 }, 'pe')
 
 tl4.to(".lemon2",{
-    top:"295%",
+    top:"350%",
     right: "280%",
     rotate:"360deg",
 }, 'pe')
